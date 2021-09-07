@@ -1,6 +1,0 @@
-macos - Computers
-ipados - iPads
-ios - iPhones
-tvos - apple tv,Homepod
-watchos - Apple watch
-hey demo check
